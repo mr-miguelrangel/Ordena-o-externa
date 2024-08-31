@@ -1,1 +1,1 @@
-# Ordena-o-externa
+# Ordenação externa
